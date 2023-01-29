@@ -25,7 +25,7 @@
                                 <i-bxl-xing />
                             </a>
                             <a
-                                href="https://github.com/TheBunksTie"
+                                href="https://thebunkstie.github.io"
                                 class="social-icon-link"
                                 data-toggle="tooltip"
                                 data-placement="left"
