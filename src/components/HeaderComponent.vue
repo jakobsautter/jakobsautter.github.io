@@ -2,7 +2,7 @@
     <header>
         <nav class="navbar shadow navbar-expand-sm fixed-top navbar-light bg-light">
             <div class="container">
-                <a class="navbar-brand" href="index.html"><i-uil-user class="uil uil-user" /> Jakob Sautter</a>
+                <a class="navbar-brand" href="#home"><i-uil-user class="uil uil-user" /> Jakob Sautter</a>
                 <button
                     class="navbar-toggler"
                     type="button"

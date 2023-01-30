@@ -509,15 +509,14 @@ section contact {
         font-size: 28px;
     }
 
-    // .navbar-collapse {
-    //     background: $text-white;
-    //     text-align: center;
-    //     padding-bottom: 20px;
-    // }
-
-    // .navbar-expand-sm .navbar-nav .nav-link {
-    //     padding: 3px 20px;
-    // }
+    .navbar-collapse {
+        background: $text-white;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    .navbar-expand-sm .navbar-nav .nav-link {
+        padding: 3px 20px;
+    }
 }
 
 @media (max-width: 580px) {

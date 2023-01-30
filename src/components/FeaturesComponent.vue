@@ -12,10 +12,8 @@
                             </div>
                             <div class="timeline-info">
                                 <h3>
-                                    <span>Senior Software Engineer/Researcher</span
-                                    ><small class="small-text"
-                                        ><a href="https://www.scch.at" target="_blank">Software Competence Center Hagenberg</a></small
-                                    >
+                                    <span>Senior Software Engineer/Researcher</span>
+                                    <small><a href="https://www.scch.at" target="_blank">Software Competence Center Hagenberg</a></small>
                                 </h3>
                                 <p>
                                     Senior responsibility for architecture, conceptional and technical prototyping, design and TDD-implementation as
@@ -30,8 +28,10 @@
                                 <span>2014</span>
                             </div>
                             <div class="timeline-info">
-                                <h3>Software Engineer</h3>
-                                <small><a href="https://www.rubicon.eu" target="_blank">Rubicon IT</a></small>
+                                <h3>
+                                    <span>Software Engineer</span>
+                                    <small><a href="https://www.rubicon.eu" target="_blank">Rubicon IT</a></small>
+                                </h3>
                                 <p>
                                     Conceptional and technical design and TDD-implementation of new product features for “ACTA NOVA”, a web-based
                                     records, workflow and documents management solution as part of an agile team.
@@ -46,7 +46,7 @@
                             </div>
                             <div class="timeline-info">
                                 <h3>
-                                    Teaching Assistant
+                                    <span>Teaching Assistant</span>
                                     <small>
                                         <a href="https://www.fh-ooe.at/campus-hagenberg/" target="_blank">
                                             University of Applied Sciences Upper Austria
@@ -69,8 +69,8 @@
                             </div>
                             <div class="timeline-info">
                                 <h3>
-                                    <span>Software Engineering / MSc</span
-                                    ><small>
+                                    <span>Software Engineering / MSc</span>
+                                    <small>
                                         <a href="https://www.fh-ooe.at/campus-hagenberg/studiengaenge/master/software-engineering/" target="_blank">
                                             University of Applied Sciences Upper Austria
                                         </a>
@@ -89,8 +89,8 @@
                             </div>
                             <div class="timeline-info">
                                 <h3>
-                                    <span>Software Engineering / BSc</span
-                                    ><small>
+                                    <span>Software Engineering / BSc</span>
+                                    <small>
                                         <a href="https://www.fh-ooe.at/campus-hagenberg/studiengaenge/bachelor/software-engineering/" target="_blank">
                                             University of Applied Sciences Upper Austria
                                         </a>
@@ -106,8 +106,8 @@
                             </div>
                             <div class="timeline-info">
                                 <h3>
-                                    <span>Sociology / BA</span
-                                    ><small><a href="https://www.soz.univie.ac.at/" target="_blank"> University of Vienna </a></small>
+                                    <span>Sociology / BA</span>
+                                    <small><a href="https://www.soz.univie.ac.at/" target="_blank"> University of Vienna </a></small>
                                 </h3>
                                 <p>
                                     Studies of sociology with a broad theoretical and methodological foundation and a focus on
