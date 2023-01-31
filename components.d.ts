@@ -42,6 +42,7 @@ declare module '@vue/runtime-core' {
     ISimpleIconsTeamcity: typeof import('~icons/simple-icons/teamcity')['default']
     IUilBrain: typeof import('~icons/uil/brain')['default']
     IUilGithub: typeof import('~icons/uil/github')['default']
+    IUilGitlab: typeof import('~icons/uil/gitlab')['default']
     IUilGlobe: typeof import('~icons/uil/globe')['default']
     IUilHeart: typeof import('~icons/uil/heart')['default']
     IUilUser: typeof import('~icons/uil/user')['default']
