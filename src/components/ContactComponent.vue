@@ -39,6 +39,15 @@
                                 <i-uil-github />
                             </a>
                             <a
+                                href="https://www.linkedin.com/in/jakob-sautter-4b9576267/"
+                                class="social-icon-link"
+                                data-toggle="tooltip"
+                                data-placement="left"
+                                title="LinkedIn"
+                                target="_blank">
+                                <i-bxl-linkedin />
+                            </a>
+                            <a
                                 href="https://www.xing.com/profile/Jakob_Sautter2"
                                 class="social-icon-link"
                                 data-toggle="tooltip"
