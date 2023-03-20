@@ -121,16 +121,17 @@
                 <div class="col-lg-12 col-12 text-center">
                     <h2 class="mb-4 mobile-mt-2">I like to work with</h2>
                 </div>
+
                 <div class="col-lg-3 col-12 text-center tech-icon">
                     <h3 class="mb-4 mobile-mt-2">Languages</h3>
                     <a href="https://www.java.com/" target="_blank" title="Java">
                         <i-mdi-language-java class="tech-icon-link" />
                     </a>
-                    <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" title="Java">
-                        <i-mdi-language-javascript class="tech-icon-link" />
-                    </a>
                     <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
                         <i-mdi-language-typescript class="tech-icon-link" />
+                    </a>
+                    <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" title="Java">
+                        <i-mdi-language-javascript class="tech-icon-link" />
                     </a>
                     <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" title="C#">
                         <i-mdi-language-csharp class="tech-icon-link" />
