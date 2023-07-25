@@ -17,8 +17,8 @@
                                 </h3>
                                 <p>
                                     Senior responsibility within a cross-functional team of UI/UX researchers, product and software developers for
-                                    architecture, conceptional and technical prototyping, design and TDD-implementation as well as deployment of
-                                    features across the applicant tracking system of a SaaS application management suite.
+                                    architecture, conceptional and technical prototyping, design and TDD-implementation of features across a SaaS
+                                    talent tracking suite.
                                 </p>
                                 <p>Techstack: JavaEE, Spring Boot, Angular/TypeScript, MySQL, Docker</p>
                             </div>
