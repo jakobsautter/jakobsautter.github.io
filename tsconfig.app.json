@@ -4,8 +4,10 @@
     "exclude": ["src/**/__tests__/*"],
     "compilerOptions": {
         "composite": true,
-        "verbatimModuleSyntax": true,
         "baseUrl": ".",
+        "preserveValueImports": false,
+        "importsNotUsedAsValues": "remove",
+        "verbatimModuleSyntax": true,
         "paths": {
             "@/*": ["./src/*"]
         },
