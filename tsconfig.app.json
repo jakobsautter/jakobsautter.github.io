@@ -5,8 +5,8 @@
     "compilerOptions": {
         "composite": true,
         "baseUrl": ".",
-        "preserveValueImports": false,
-        "importsNotUsedAsValues": "remove",
+        "preserveValueImports": true,
+        "importsNotUsedAsValues": "preserve",
         "verbatimModuleSyntax": true,
         "paths": {
             "@/*": ["./src/*"]
