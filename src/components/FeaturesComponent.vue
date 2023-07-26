@@ -8,6 +8,24 @@
                     <div class="timeline">
                         <div class="timeline-wrapper">
                             <div class="timeline-yr">
+                                <span>2023</span>
+                            </div>
+                            <div class="timeline-info">
+                                <h3>
+                                    <span>Senior Software Engineer</span>
+                                    <small><a href="https://www.softgarden.de" target="_blank">Softgarden</a></small>
+                                </h3>
+                                <p>
+                                    Senior responsibility within a cross-functional team of UI/UX researchers, product and software developers for
+                                    architecture, conceptional and technical prototyping, design and TDD-implementation of features across a SaaS
+                                    talent tracking suite.
+                                </p>
+                                <p>Techstack: JavaEE, Spring Boot, Angular/TypeScript, MySQL, Docker</p>
+                            </div>
+                        </div>
+
+                        <div class="timeline-wrapper">
+                            <div class="timeline-yr">
                                 <span>2021</span>
                             </div>
                             <div class="timeline-info">
@@ -19,7 +37,7 @@
                                     Senior responsibility for architecture, conceptional and technical prototyping, design and TDD-implementation as
                                     well as deployment of different modules of in-house software-analysis platform "eKNOWS".
                                 </p>
-                                <p>Techstack: Java, Spring Boot, Vue.js/TypeScript, Docker</p>
+                                <p>Techstack: Java, Spring Boot, Vue.js/TypeScript, PostgreSQL, Docker</p>
                             </div>
                         </div>
 
@@ -166,6 +184,9 @@
 
                 <div class="col-lg-3 col-12 text-center tech-icon">
                     <h3 class="mb-4 mobile-mt-2">Frontend</h3>
+                    <a href="https://angular.io/" target="_blank" title="Angular">
+                        <i-mdi-angular class="tech-icon-link" />
+                    </a>
                     <a href="https://vuejs.org/" target="_blank" title="Vue.js">
                         <i-mdi-vuejs class="tech-icon-link" />
                     </a>
