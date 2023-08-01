@@ -8,7 +8,7 @@
                     <div class="timeline">
                         <div class="timeline-wrapper">
                             <div class="timeline-yr">
-                                <span>2023</span>
+                                <span>05/2023</span>
                             </div>
                             <div class="timeline-info">
                                 <h3>
@@ -20,13 +20,13 @@
                                     architecture, conceptional and technical prototyping, design and TDD-implementation of features across a SaaS
                                     talent tracking suite.
                                 </p>
-                                <p>Techstack: JavaEE, Spring Boot, Angular/TypeScript, MySQL, Docker</p>
+                                <p>JavaEE, Spring Boot, Angular/TypeScript, MySQL, Docker</p>
                             </div>
                         </div>
 
                         <div class="timeline-wrapper">
                             <div class="timeline-yr">
-                                <span>2021</span>
+                                <span>04/2021</span>
                             </div>
                             <div class="timeline-info">
                                 <h3>
@@ -37,13 +37,13 @@
                                     Senior responsibility for architecture, conceptional and technical prototyping, design and TDD-implementation as
                                     well as deployment of different modules of in-house software-analysis platform "eKNOWS".
                                 </p>
-                                <p>Techstack: Java, Spring Boot, Vue.js/TypeScript, PostgreSQL, Docker</p>
+                                <p>Java, Spring Boot, Vue.js/TypeScript, PostgreSQL, Docker</p>
                             </div>
                         </div>
 
                         <div class="timeline-wrapper">
                             <div class="timeline-yr">
-                                <span>2014</span>
+                                <span>04/2014</span>
                             </div>
                             <div class="timeline-info">
                                 <h3>
@@ -54,13 +54,13 @@
                                     Conceptional and technical design and TDD-implementation of new product features for “ACTA NOVA”, a web-based
                                     records, workflow and documents management solution as part of an agile team.
                                 </p>
-                                <p>Techstack: C#, ASP.NET/JavaScript, MSSQL</p>
+                                <p>C#, ASP.NET/JavaScript, MSSQL</p>
                             </div>
                         </div>
 
                         <div class="timeline-wrapper">
                             <div class="timeline-yr">
-                                <span>2012</span>
+                                <span>10/2012</span>
                             </div>
                             <div class="timeline-info">
                                 <h3>

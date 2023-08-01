@@ -30,7 +30,7 @@
                     <div>
                         <div class="social-links">
                             <a
-                                href="https://github.com/TheBunksTie"
+                                href="https://github.com/jakobsautter"
                                 class="social-icon-link"
                                 data-toggle="tooltip"
                                 data-placement="left"
@@ -57,7 +57,7 @@
                                 <i-bxl-xing />
                             </a>
                             <a
-                                href="https://thebunkstie.github.io"
+                                href="https://jakobsautter.github.io"
                                 class="social-icon-link"
                                 data-toggle="tooltip"
                                 data-placement="left"

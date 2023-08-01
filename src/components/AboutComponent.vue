@@ -5,7 +5,7 @@
                 <div class="col-lg-12 col-12">
                     <h2 class="mb-4 text-center">About</h2>
                     <p>
-                        Hello! My name is Jakob Sautter and I am a Senior Software Engineer based in Vienna/Berlin with 9+ years of professional
+                        Hello! My name is Jakob Sautter and I am a Senior Software Engineer based in Berlin/Vienna with 9+ years of professional
                         experience designing, developing, and implementing enterprise web-applications and software analytics solutions. I am
                         specifically interested in backend development, designing service architectures, creating APIs and working with databases.
                     </p>
