@@ -62,12 +62,15 @@ body {
     a {
         font-size: $small-font-size;
     }
-    color: $body-font-color;
-    font-size: $small-font-size;
-    font-weight: $font-weight-bold;
-    padding: 8px 16px;
-    border-radius: 50px;
-    letter-spacing: 0.2px;
+
+    & {
+        color: $body-font-color;
+        font-size: $small-font-size;
+        font-weight: $font-weight-bold;
+        padding: 8px 16px;
+        border-radius: 50px;
+        letter-spacing: 0.2px;
+    }
 }
 
 ul {
@@ -432,10 +435,6 @@ strong {
     }
 }
 
-section contact {
-    text-align: center;
-}
-
 .contact-info {
     background: $button-color;
     border-radius: 0 0 3px 3px;
@@ -452,13 +451,16 @@ section contact {
     color: $body-font-color;
     font-size: 50px;
     text-align: center;
-    margin: 25px 0px 30px;
-    a {
+    margin: 25px 0 30px;
+
+  a {
         padding: 0 20px;
         font-size: 30px;
     }
-    display: block;
-    margin: 5px 0;
+
+    & {
+          display: block;
+      }
     &:hover {
         color: $main-color;
     }
