@@ -43,6 +43,8 @@ jobs:
               env:
                 GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
               run: |
+                git config --global user.email "16022563+github-actions[bot]@users.noreply.github.com"
+                git config --global user.name "GitHub Actions"
                 git add "package.json"
                 git commit -m "chore: release ${{ env.NEW_VERSION }}"
                 git push
