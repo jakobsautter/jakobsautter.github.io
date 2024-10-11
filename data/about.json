@@ -1,0 +1,14 @@
+{
+  "teaser": "I'm an experienced software engineer building all different kinds of software with",
+  "teaserAnimation": [
+    "Java",
+    "C#",
+    "Kotlin",
+    "TypeScript"
+  ],
+  "details": [
+    "Hello! My name is Jakob Sautter and I am a Senior Software Engineer based in Berlin/Vienna with 10+ years of professional experience designing, developing, and implementing enterprise web-applications and software analytics solutions. I am specifically interested in backend development, designing service architectures, creating APIs and working with databases.",
+    "I have a strong academic background in software engineering and hold a BSc and MSc degree. Before that I studied sociology which reflects my desire to look at things from very different perspectives.",
+    "My interests span modern distributed services architecture and generative/meta programming as well as technology-society-discourses and pop culture. In my spare time, I enjoy spending time with my wife, playing Nintendo games from the late 90s (and lately some more current ones) and going out to dinner with my friends."
+  ]
+}

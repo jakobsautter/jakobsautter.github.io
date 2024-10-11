@@ -1,3 +1,8 @@
+<script setup lang="ts">
+import workExperienceData from '@/../data/workExperience.json';
+import educationData from '@/../data/education.json';
+</script>
+
 <template>
     <section class="resume py-5 d-lg-flex justify-content-center align-items-center" id="resume">
         <div class="container">
@@ -6,72 +11,19 @@
                     <h2 class="mb-4">Work Experience</h2>
 
                     <div class="timeline">
-                        <div class="timeline-wrapper">
+                        <div v-for="workExperience in workExperienceData" :key="workExperience.timestamp" class="timeline-wrapper">
                             <div class="timeline-yr">
-                                <span>05/2023</span>
+                                <span>{{ workExperience.timestamp }}</span>
                             </div>
                             <div class="timeline-info">
                                 <h3>
-                                    <span>Senior Software Engineer</span>
-                                    <small><a href="https://www.softgarden.de" target="_blank">Softgarden</a></small>
-                                </h3>
-                                <p>
-                                    Senior responsibility within a cross-functional team of UI/UX researchers, product and software developers for
-                                    architecture, conceptional and technical prototyping, design and TDD-implementation of features across a SaaS
-                                    talent tracking suite.
-                                </p>
-                                <p>JavaEE, Spring Boot, Angular/TypeScript, MySQL, Docker</p>
-                            </div>
-                        </div>
-
-                        <div class="timeline-wrapper">
-                            <div class="timeline-yr">
-                                <span>04/2021</span>
-                            </div>
-                            <div class="timeline-info">
-                                <h3>
-                                    <span>Senior Software Engineer/Researcher</span>
-                                    <small><a href="https://www.scch.at" target="_blank">Software Competence Center Hagenberg</a></small>
-                                </h3>
-                                <p>
-                                    Senior responsibility for architecture, conceptional and technical prototyping, design and TDD-implementation as
-                                    well as deployment of different modules of in-house software-analysis platform "eKNOWS".
-                                </p>
-                                <p>Java, Spring Boot, Vue.js/TypeScript, PostgreSQL, Docker</p>
-                            </div>
-                        </div>
-
-                        <div class="timeline-wrapper">
-                            <div class="timeline-yr">
-                                <span>04/2014</span>
-                            </div>
-                            <div class="timeline-info">
-                                <h3>
-                                    <span>Software Engineer</span>
-                                    <small><a href="https://www.rubicon.eu" target="_blank">Rubicon IT</a></small>
-                                </h3>
-                                <p>
-                                    Conceptional and technical design and TDD-implementation of new product features for “ACTA NOVA”, a web-based
-                                    records, workflow and documents management solution as part of an agile team.
-                                </p>
-                                <p>C#, ASP.NET/JavaScript, MSSQL</p>
-                            </div>
-                        </div>
-
-                        <div class="timeline-wrapper">
-                            <div class="timeline-yr">
-                                <span>10/2012</span>
-                            </div>
-                            <div class="timeline-info">
-                                <h3>
-                                    <span>Teaching Assistant</span>
+                                    <span>{{ workExperience.jobTitle }}</span>
                                     <small>
-                                        <a href="https://www.fh-ooe.at/campus-hagenberg/" target="_blank">
-                                            University of Applied Sciences Upper Austria
-                                        </a>
+                                        <a :href="workExperience.companyUrl" target="_blank">{{ workExperience.company }}</a>
                                     </small>
                                 </h3>
-                                <p>Assistance to students of algorithm/data structure and project management courses.</p>
+                                <p>{{ workExperience.jobDescription }}</p>
+                                <p>{{ workExperience.technologyStack }}</p>
                             </div>
                         </div>
                     </div>
@@ -81,63 +33,27 @@
                     <h2 class="mb-4 mobile-mt-2">Education</h2>
 
                     <div class="timeline">
-                        <div class="timeline-wrapper">
+                        <div v-for="education in educationData" :key="education.timestamp" class="timeline-wrapper">
                             <div class="timeline-yr">
-                                <span>2018</span>
+                                <span>{{ education.timestamp }}</span>
                             </div>
                             <div class="timeline-info">
                                 <h3>
-                                    <span>Software Engineering / MSc</span>
+                                    <span>{{ education.programName }} / {{ education.degree }}</span>
                                     <small>
-                                        <a href="https://www.fh-ooe.at/campus-hagenberg/studiengaenge/master/software-engineering/" target="_blank">
-                                            University of Applied Sciences Upper Austria
-                                        </a>
+                                        <a :href="education.institutionUrl" target="_blank">{{ education.institution }}</a>
                                     </small>
                                 </h3>
-                                <p>
-                                    Studies of advanced software engineering with a focus on data science, genetic/heuristic methods and generative
-                                    programming as well as modern service oriented (web) architectures.
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="timeline-wrapper">
-                            <div class="timeline-yr">
-                                <span>2014</span>
-                            </div>
-                            <div class="timeline-info">
-                                <h3>
-                                    <span>Software Engineering / BSc</span>
-                                    <small>
-                                        <a href="https://www.fh-ooe.at/campus-hagenberg/studiengaenge/bachelor/software-engineering/" target="_blank">
-                                            University of Applied Sciences Upper Austria
-                                        </a>
-                                    </small>
-                                </h3>
-                                <p>Studies of software engineering with a focus on software architecture, web technologies and project management.</p>
-                            </div>
-                        </div>
-
-                        <div class="timeline-wrapper">
-                            <div class="timeline-yr">
-                                <span>2011</span>
-                            </div>
-                            <div class="timeline-info">
-                                <h3>
-                                    <span>Sociology / BA</span>
-                                    <small><a href="https://www.soz.univie.ac.at/" target="_blank"> University of Vienna </a></small>
-                                </h3>
-                                <p>
-                                    Studies of sociology with a broad theoretical and methodological foundation and a focus on
-                                    quantitative/statistical methods.
-                                </p>
+                                <p>{{ education.programDescription }}</p>
                             </div>
                         </div>
                     </div>
                 </div>
+            </div>
 
+            <div class="row">
                 <div class="col-lg-12 col-12 text-center">
-                    <h2 class="mb-4 mobile-mt-2">I like to work with</h2>
+                    <h2 class="m-4 mobile-mt-2">I like to work with</h2>
                 </div>
 
                 <div class="col-lg-3 col-12 text-center tech-icon">
@@ -247,6 +163,9 @@
                     </a>
                     <a href="https://bitbucket.org/" target="_blank" title="Bitbucket">
                         <i-simple-icons-bitbucket class="tech-icon-link" />
+                    </a>
+                    <a href="https://www.atlassian.com/de/software/bamboo" target="_blank" title="Bamboo">
+                        <i-simple-icons-bamboo class="tech-icon-link" />
                     </a>
                 </div>
             </div>

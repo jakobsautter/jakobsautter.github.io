@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2018",
+    "institution": "University of Applied Sciences Upper Austria",
+    "institutionUrl": "https://www.fh-ooe.at/campus-hagenberg/studiengaenge/master/software-engineering/",
+    "programName": "Software Engineering",
+    "programDescription": "Studies of advanced software engineering with a focus on data science, genetic/heuristic methods and generative programming as well as modern service oriented (web) architectures.",
+    "degree": "MSc"
+  },
+  {
+    "timestamp": "2014",
+    "institution": "University of Applied Sciences Upper Austria",
+    "institutionUrl": "https://www.fh-ooe.at/campus-hagenberg/studiengaenge/bachelor/software-engineering/",
+    "programName": "Software Engineering",
+    "programDescription": "Studies of software engineering with a focus on software architecture, web technologies and project management.",
+    "degree": "BSc"
+  },
+  {
+    "timestamp": "2011",
+    "institution": "University of Vienna",
+    "institutionUrl": "https://www.soz.univie.ac.at/",
+    "programName": "Sociology",
+    "programDescription": "Studies of sociology with a broad theoretical and methodological foundation and a focus on quantitative/statistical methods.",
+    "degree": "BA"
+  }
+]

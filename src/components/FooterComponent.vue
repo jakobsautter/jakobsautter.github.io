@@ -1,5 +1,6 @@
 <script setup lang="ts">
-import { version } from "@/../package.json"
+import { version } from '@/../package.json';
+const currentYear = new Date().getFullYear();
 </script>
 <template>
     <footer class="footer py-5">
@@ -7,8 +8,8 @@ import { version } from "@/../package.json"
             <div class="row">
                 <div class="col-lg-12 col-12">
                     <p class="copyright-text text-center">
-                        v{{version}} of this portfolio is made with <i-uil-heart title="heart" /> and <i-uil-brain title="brain" /> and <i-uil-globe title="internet" /> by Jakob
-                        Sautter.
+                        v{{ version }}/{{ currentYear }} of this portfolio is made with <i-uil-heart title="heart" /> and
+                        <i-uil-brain title="brain" /> and <i-uil-globe title="internet" /> by Jakob Sautter.
                     </p>
                     <p class="text-center small-text">
                         <a href="https://www.flaticon.com/de/kostenlose-icons/portfolio" title="portfolio Icons">

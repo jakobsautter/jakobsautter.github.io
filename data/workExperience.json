@@ -1,0 +1,34 @@
+[
+  {
+    "timestamp": "05/2023",
+    "company": "Softgarden",
+    "companyUrl": "https://www.softgarden.de",
+    "jobTitle" : "Senior Software Engineer",
+    "jobDescription" : "Senior responsibility within a cross-functional team of UI/UX researchers, product and software developers for architecture, conceptional and technical prototyping, design and TDD-implementation of features across a SaaS talent tracking suite.",
+    "technologyStack" : "JavaEE, Spring Boot, Angular/TypeScript, MySQL, Docker"
+  },
+  {
+    "timestamp": "04/2021",
+    "company": "Software Competence Center Hagenberg",
+    "companyUrl": "https://www.scch.at",
+    "jobTitle" : "Senior Software Engineer/Researcher",
+    "jobDescription" : "Senior responsibility for architecture, conceptional and technical prototyping, design and TDD-implementation as well as deployment of different modules of in-house software-analysis platform \"eKNOWS\".",
+    "technologyStack" : "Java, Spring Boot, Vue.js/TypeScript, PostgreSQL, Docker"
+  },
+  {
+    "timestamp": "04/2014",
+    "company": "Rubicon",
+    "companyUrl": "https://www.rubicon.eu",
+    "jobTitle" : "Software Engineer",
+    "jobDescription" : " Conceptional and technical design and TDD-implementation of new product features for \"ACTA NOVA\", a web-based records, workflow and documents management solution as part of an agile team.",
+    "technologyStack" : "C#, ASP.NET/JavaScript, MSSQL"
+  },
+  {
+    "timestamp": "10/2012",
+    "company": "University of Applied Sciences Upper Austria",
+    "companyUrl": "https://www.fh-ooe.at/campus-hagenberg/",
+    "jobTitle" : "Teaching Assistant",
+    "jobDescription" : "Assistance to students of algorithm/data structure and project management courses."
+  }
+
+]
