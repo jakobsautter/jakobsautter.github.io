@@ -36,6 +36,17 @@ jobs:
               with:
                   node-version: 18
 
+            - name: Update version
+              run: echo "NEW_VERSION=$(npm version prerelease --no-git-tag-version)" >> $GITHUB_ENV
+
+            - name: Commit new version
+              env:
+                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              run: |
+                git add "package.json"
+                git commit -m "chore: release ${{ env.NEW_VERSION }}"
+                git push
+
             - name: Cache dependencies
               uses: actions/cache@v4
               with:
