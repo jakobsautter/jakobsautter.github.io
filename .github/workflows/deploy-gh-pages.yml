@@ -46,6 +46,7 @@ jobs:
                 git config --global user.email "16022563+jakobsautter@users.noreply.github.com "
                 git config --global user.name "GitHub Actions"
                 git add "package.json"
+                git add "package-lock.json"
                 git commit -m "chore: release ${{ env.NEW_VERSION }}"
                 git push
 
