@@ -18,10 +18,10 @@ coverage
 /cypress/screenshots/
 
 package-lock.json
+components.d.ts
 
 # Editor directories and files
-.vscode/*
-!.vscode/extensions.json
+.vscode
 .idea
 *.suo
 *.ntvs*
