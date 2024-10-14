@@ -18,7 +18,7 @@
         "vue": "^3.5.11"
     },
     "devDependencies": {
-        "@iconify/json": "^2.2.259",
+        "@iconify/json": "^2.2.260",
         "@rushstack/eslint-patch": "^1.10.3",
         "@tsconfig/node20": "^20.1.4",
         "@types/bootstrap": "^5.2.10",
