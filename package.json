@@ -39,7 +39,7 @@
         "typescript": "~5.8.3",
         "unplugin-icons": "^22.1.0",
         "unplugin-vue-components": "^28.4.1",
-        "vite": "^6.3.2",
+        "vite": "^6.3.4",
         "vitest": "^3.0.8",
         "vue-tsc": "^2.2.8"
     }
