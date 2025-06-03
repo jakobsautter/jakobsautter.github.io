@@ -20,7 +20,7 @@
     "devDependencies": {
         "@iconify/json": "^2.2.329",
         "@rushstack/eslint-patch": "^1.11.0",
-        "@tsconfig/node20": "^20.1.4",
+        "@tsconfig/node20": "^20.1.5",
         "@types/bootstrap": "^5.2.10",
         "@types/jsdom": "^21.1.7",
         "@types/node": "^22.15.18",
