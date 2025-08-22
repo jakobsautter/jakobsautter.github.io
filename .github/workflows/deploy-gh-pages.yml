@@ -34,7 +34,7 @@ jobs:
 
             - uses: actions/setup-node@v4
               with:
-                  node-version: 18
+                  node-version: 22
 
             - name: Update version
               run: echo "NEW_VERSION=$(npm version prerelease --no-git-tag-version)" >> $GITHUB_ENV
