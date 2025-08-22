@@ -1,6 +1,6 @@
 {
     "name": "portfolio",
-    "version": "0.2.1-133",
+    "version": "0.2.1-135",
     "private": true,
     "type": "module",
     "scripts": {
@@ -28,7 +28,7 @@
         "@vue/eslint-config-prettier": "^10.2.0",
         "@vue/eslint-config-typescript": "^14.6.0",
         "@vue/test-utils": "^2.4.6",
-        "@vue/tsconfig": "^0.7.0",
+        "@vue/tsconfig": "^0.8.1",
         "eslint": "^9.33.0",
         "eslint-plugin-vue": "^10.2.0",
         "jsdom": "^26.1.0",
