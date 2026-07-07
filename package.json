@@ -1,6 +1,6 @@
 {
     "name": "portfolio",
-    "version": "0.2.1-157",
+    "version": "0.2.1-168",
     "private": true,
     "type": "module",
     "scripts": {
@@ -19,28 +19,28 @@
     },
     "devDependencies": {
         "@iconify/json": "^2.2.410",
-        "@rushstack/eslint-patch": "^1.12.0",
+        "@rushstack/eslint-patch": "^1.16.1",
         "@tsconfig/node20": "^20.1.6",
         "@types/bootstrap": "^5.2.10",
         "@types/jsdom": "^27.0.0",
-        "@types/node": "^24.4.0",
+        "@types/node": "^26.0.1",
         "@vitejs/plugin-vue": "^6.0.1",
         "@vue/eslint-config-prettier": "^10.2.0",
         "@vue/eslint-config-typescript": "^14.6.0",
         "@vue/test-utils": "^2.4.6",
         "@vue/tsconfig": "^0.8.1",
         "eslint": "^9.39.2",
-        "eslint-plugin-vue": "^10.5.1",
+        "eslint-plugin-vue": "^10.9.2",
         "jsdom": "^27.2.0",
         "npm-run-all": "^4.1.5",
         "prettier": "^3.6.2",
-        "sass": "^1.97.1",
+        "sass": "^1.97.3",
         "sass-loader": "^16.0.5",
         "typescript": "~5.9.3",
         "unplugin-icons": "^23.0.1",
         "unplugin-vue-components": "^29.0.0",
         "vite": "^7.3.1",
         "vitest": "^4.0.16",
-        "vue-tsc": "^3.0.6"
+        "vue-tsc": "^3.2.4"
     }
 }
