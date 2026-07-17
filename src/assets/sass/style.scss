@@ -188,7 +188,7 @@ strong {
     top: 0;
     right: 0;
     left: 0;
-    animation: BottomToTop 8s linear infinite 0s;
+    animation: BottomToTop 10s linear infinite 0s;
     &:nth-child(2n + 2) {
         animation-delay: 2s;
     }
@@ -197,6 +197,9 @@ strong {
     }
     &:nth-child(4n + 4) {
         animation-delay: 6s;
+    }
+    &:nth-child(5n + 5) {
+        animation-delay: 8s;
     }
 }
 
