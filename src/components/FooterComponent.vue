@@ -12,11 +12,13 @@ const currentYear = new Date().getFullYear();
                         <i-uil-brain title="brain" /> and <i-uil-globe title="internet" /> by Jakob Sautter.
                     </p>
                     <p class="text-center small-text">
-                        <a href="https://www.flaticon.com/de/kostenlose-icons/portfolio" title="portfolio Icons">
+                        <a href="https://www.flaticon.com/de/kostenlose-icons/portfolio" title="portfolio Icons" rel="noopener noreferrer" target="_blank">
                             Portfolio Icons erstellt von juicy_fish - Flaticon
                         </a>
                         <a
-                            href="https://www.freepik.com/free-photo/blue-wavy-light-streak-background_5083077.htm#page=3&query=technology%20blur%20blue&position=29&from_view=search&track=ais">
+                            href="https://www.freepik.com/free-photo/blue-wavy-light-streak-background_5083077.htm#page=3&query=technology%20blur%20blue&position=29&from_view=search&track=ais"
+                            rel="noopener noreferrer"
+                            target="_blank">
                             Image by starline on Freepik on Freepik
                         </a>
                     </p>

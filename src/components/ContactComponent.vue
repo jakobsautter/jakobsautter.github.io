@@ -35,6 +35,7 @@
                                 data-toggle="tooltip"
                                 data-placement="left"
                                 title="GitHub"
+                                rel="me noopener noreferrer"
                                 target="_blank">
                                 <i-uil-github />
                             </a>
@@ -44,6 +45,7 @@
                                 data-toggle="tooltip"
                                 data-placement="left"
                                 title="LinkedIn"
+                                rel="me noopener noreferrer"
                                 target="_blank">
                                 <i-bxl-linkedin />
                             </a>
@@ -53,6 +55,7 @@
                                 data-toggle="tooltip"
                                 data-placement="left"
                                 title="Xing"
+                                rel="me noopener noreferrer"
                                 target="_blank">
                                 <i-bxl-xing />
                             </a>
@@ -62,6 +65,7 @@
                                 data-toggle="tooltip"
                                 data-placement="left"
                                 title="Web"
+                                rel="me noopener noreferrer"
                                 target="_blank">
                                 <i-uil-globe />
                             </a>

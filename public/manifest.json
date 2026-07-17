@@ -1,0 +1,16 @@
+{
+    "name": "Jakob Sautter - Senior Software Engineer",
+    "short_name": "Jakob Sautter",
+    "description": "Portfolio of Jakob Sautter, Senior Software Engineer based in Berlin/Vienna",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#007bff",
+    "icons": [
+        {
+            "src": "/favicon.ico",
+            "sizes": "any",
+            "type": "image/x-icon"
+        }
+    ]
+}
