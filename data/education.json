@@ -1,26 +1,26 @@
 [
-  {
-    "timestamp": "2018",
-    "institution": "University of Applied Sciences Upper Austria",
-    "institutionUrl": "https://www.fh-ooe.at/campus-hagenberg/studiengaenge/master/software-engineering/",
-    "programName": "Software Engineering",
-    "programDescription": "Advanced study of software engineering, focusing on data science, heuristic and genetic optimisation methods, generative and meta programming, and modern distributed, service-oriented web architectures. Passed with highest distinction.",
-    "degree": "MSc"
-  },
-  {
-    "timestamp": "2014",
-    "institution": "University of Applied Sciences Upper Austria",
-    "institutionUrl": "https://www.fh-ooe.at/campus-hagenberg/studiengaenge/bachelor/software-engineering/",
-    "programName": "Software Engineering",
-    "programDescription": "Foundational study of software engineering, focusing on software architecture, web technologies, and project management. Passed with highest distinction.",
-    "degree": "BSc"
-  },
-  {
-    "timestamp": "2011",
-    "institution": "University of Vienna",
-    "institutionUrl": "https://www.soz.univie.ac.at/",
-    "programName": "Sociology",
-    "programDescription": "Foundational study of sociology, covering a broad range of theoretical and methodological approaches, with a particular focus on quantitative and statistical methods. Passed with highest distinction.",
-    "degree": "BA"
-  }
+    {
+        "timestamp": "2018",
+        "institution": "University of Applied Sciences Upper Austria",
+        "institutionUrl": "https://www.fh-ooe.at/campus-hagenberg/studiengaenge/master/software-engineering/",
+        "programName": "Software Engineering",
+        "programDescription": "Advanced study of software engineering, focusing on data science, heuristic and genetic optimisation methods, generative and meta programming, and modern distributed, service-oriented web architectures. Completed on a part-time basis alongside full-time employment. Passed with distinction.",
+        "degree": "MSc"
+    },
+    {
+        "timestamp": "2014",
+        "institution": "University of Applied Sciences Upper Austria",
+        "institutionUrl": "https://www.fh-ooe.at/campus-hagenberg/studiengaenge/bachelor/software-engineering/",
+        "programName": "Software Engineering",
+        "programDescription": "Foundational study of software engineering, focusing on software architecture, web technologies, and project management. Passed with distinction.",
+        "degree": "BSc"
+    },
+    {
+        "timestamp": "2011",
+        "institution": "University of Vienna",
+        "institutionUrl": "https://www.soz.univie.ac.at/",
+        "programName": "Sociology",
+        "programDescription": "Foundational study of sociology, covering a broad range of theoretical and methodological approaches, with a particular focus on quantitative and statistical methods. Passed with distinction.",
+        "degree": "BA"
+    }
 ]

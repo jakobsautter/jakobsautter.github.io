@@ -1,17 +1,11 @@
 {
-  "teaser": "I'm an experienced software engineer building all different kinds of software with",
-  "teaserAnimation": [
-    "Java",
-    "C#",
-    "Kotlin",
-    "TypeScript",
-    "LLM support"
-  ],
-  "details": [
-    "Hello, my name is Jakob. I am a Senior Software Engineer based between Berlin and Vienna, with over 10 years of experience architecting and delivering enterprise web applications and software analytics solutions at scale. I have built deep domain expertise across multiple industries, which has sharpened my ability to translate business context into robust technical solutions, and specialise in backend development, service architecture, API design, and both relational and non-relational databases. I have particular experience with microservices architectures and have significantly contributed to monolith-to-microservices migrations, balancing pragmatic delivery with long-term system maintainability.",
-    "I hold a BSc and MSc in Software Engineering, though my academic journey began in Sociology, a background that still shapes how I think about systems, technical and social alike.",
-    "I am drawn to modern distributed systems and generative and meta programming, and I care about writing software that is not just functional, but maintainable and thoughtfully designed. In recent years I have also built strong expertise in large language models and generative AI, including prompt engineering, retrieval augmented generation, and integrating AI into production systems, always with a pragmatic eye for where it adds real value.",
-    "I have taken on mentorship responsibilities throughout my career, guiding junior developers and shaping key technical decisions. I am well versed in DevOps practices, including CI/CD and containerisation with Docker, and place strong emphasis on code quality through test driven development and a healthy code review culture.",
-    "Outside of work, I value time with my wife, staying active through regular gym training, a long-standing enthusiasm for classic video games, particularly the Nintendo 64 era, and regular time with friends as an important counterbalance to my technical career."
-  ]
+    "teaser": "I'm an experienced software engineer building all different kinds of software with",
+    "teaserAnimation": ["Java", "C#", "TypeScript", "Claude Code", "Github Copilot"],
+    "details": [
+        "Hello, my name is Jakob. I am a Senior Software Engineer based between Berlin and Vienna, with over 10 years of experience architecting and delivering enterprise web applications and software analytics solutions at scale. I have built deep domain expertise across multiple industries, which has sharpened my ability to translate business context into robust technical solutions, and specialise in backend development, service architecture, API design, and both relational and non-relational databases. I have particular experience with microservices architectures and have significantly contributed to monolith-to-microservices migrations, balancing pragmatic delivery with long-term system maintainability.",
+        "I hold a BSc and MSc in Software Engineering, though my academic journey began in Sociology, a background that still shapes how I think about systems, technical and social alike.",
+        "I am drawn to modern distributed systems and generative and meta programming, and I care about writing software that is not just functional, but maintainable and thoughtfully designed. In recent years I have also built strong expertise in large language models and generative AI, including prompt engineering, retrieval augmented generation, and integrating AI into production systems, always with a pragmatic eye for where it adds real value.",
+        "I have taken on mentorship responsibilities throughout my career, guiding junior developers and shaping key technical decisions. I am well versed in DevOps practices, including CI/CD and containerisation with Docker, and place strong emphasis on code quality through test driven development and a healthy code review culture.",
+        "Outside of work, I value time with my wife, staying active through regular gym training, a long-standing enthusiasm for classic video games, particularly the Nintendo 64 era, and regular time with friends as an important counterbalance to my technical career."
+    ]
 }

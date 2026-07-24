@@ -1,34 +1,33 @@
 [
-  {
-    "timestamp": "05/2023",
-    "company": "Softgarden",
-    "companyUrl": "https://www.softgarden.de",
-    "jobTitle" : "Senior Software Engineer",
-    "jobDescription" : "As Senior Software Engineer, drove architecture and technical direction within a cross-functional team of UI/UX researchers, product managers, and software developers, shaping how features are conceived, prototyped, and delivered across a SaaS talent tracking suite. Explored and applied AI-assisted engineering practices within the development workflow, while also contributing to the design and delivery of AI-powered features within the product itself. Advocated test driven development as a core engineering practice and played a major role in technical decision-making beyond individual feature work.",
-    "technologyStack" : "JavaEE, Spring Boot, Angular/TypeScript, MySQL, Docker"
-  },
-  {
-    "timestamp": "04/2021",
-    "company": "Software Competence Center Hagenberg",
-    "companyUrl": "https://www.scch.at",
-    "jobTitle" : "Senior Software Engineer/Researcher",
-    "jobDescription" : "As Senior Software Engineer/Researcher, contributed to multiple projects centered around \"eKNOWS,\" an in-house code analysis and visualization platform, helping project partners gain deeper understanding of their codebases through improved analysis and visualization capabilities. Worked on parsers for several programming languages, and independently designed and built a parser for SAP's ABAP language from scratch. The whole work contributed to one academic publication.",
-    "technologyStack" : "Java, Spring Boot, Vue.js/TypeScript, PostgreSQL, Docker"
-  },
-  {
-    "timestamp": "04/2014",
-    "company": "Rubicon",
-    "companyUrl": "https://www.rubicon.eu",
-    "jobTitle" : "Software Engineer",
-    "jobDescription" : " As Software Engineer within a highly performant agile team, contributed to designing and delivering new product features for \"ACTA NOVA,\" a widely used web-based records, workflow, and document management solution. Held this position for over seven years, during which mentorship from experienced colleagues and exposure to strong engineering practices, including test driven development, shaped the foundation of my approach to software engineering.",
-    "technologyStack" : "C#, ASP.NET/JavaScript, MSSQL"
-  },
-  {
-    "timestamp": "10/2012",
-    "company": "University of Applied Sciences Upper Austria",
-    "companyUrl": "https://www.fh-ooe.at/campus-hagenberg/",
-    "jobTitle" : "Teaching Assistant",
-    "jobDescription" : "As Teaching Assistant, supported course instruction in algorithms, data structures, and project management, with a strong focus on personalised feedback and creating meaningful learning opportunities for students to deepen their understanding."
-  }
-
+    {
+        "timestamp": "05/2023",
+        "company": "Softgarden",
+        "companyUrl": "https://www.softgarden.de",
+        "jobTitle": "Senior Software Engineer",
+        "jobDescription": "As Senior Software Engineer, drove architecture and technical direction within a cross-functional team of UI/UX researchers, product managers, and software developers, shaping how features are conceived, prototyped, and delivered across a SaaS talent tracking suite. Significantly contributed to an ongoing monolith-to-microservices migration, balancing pragmatic delivery with long-term system maintainability. Mentored other developers as part of this role, while also exploring and applying AI-assisted engineering practices within the development workflow, and contributing to the design and delivery of AI-powered features within the product itself. Advocated test driven development as a core engineering practice and played a major role in technical decision-making beyond individual feature work.",
+        "technologyStack": "JavaEE, Spring Boot, Angular/TypeScript, MySQL, Docker"
+    },
+    {
+        "timestamp": "04/2021",
+        "company": "Software Competence Center Hagenberg",
+        "companyUrl": "https://www.scch.at",
+        "jobTitle": "Senior Software Engineer/Researcher",
+        "jobDescription": "As Senior Software Engineer/Researcher, contributed to multiple projects centered around \"eKNOWS,\" an in-house code analysis and visualization platform, helping project partners gain deeper understanding of their codebases through improved analysis and visualization capabilities. Worked on parsers for several programming languages, and independently designed and built a parser for SAP's ABAP language from scratch. The whole work contributed to one academic publication.",
+        "technologyStack": "Java, Spring Boot, Vue.js/TypeScript, PostgreSQL, Docker"
+    },
+    {
+        "timestamp": "04/2014",
+        "company": "Rubicon",
+        "companyUrl": "https://www.rubicon.eu",
+        "jobTitle": "Software Engineer",
+        "jobDescription": "As Software Engineer within a highly performant agile team, contributed to designing and delivering new product features for \"ACTA NOVA,\" a widely used web-based records, workflow, and document management solution. Held this position for over seven years, during which mentorship from experienced colleagues and exposure to strong engineering practices, including test driven development, shaped the foundation of my approach to software engineering. Over time, transitioned from being mentored into mentoring other developers myself, particularly towards the latter part of my tenure.",
+        "technologyStack": "C#, ASP.NET/JavaScript, MSSQL"
+    },
+    {
+        "timestamp": "10/2012",
+        "company": "University of Applied Sciences Upper Austria",
+        "companyUrl": "https://www.fh-ooe.at/campus-hagenberg/",
+        "jobTitle": "Teaching Assistant",
+        "jobDescription": "As Teaching Assistant, supported course instruction in algorithms, data structures, and project management, with a strong focus on personalised feedback and creating meaningful learning opportunities for students to deepen their understanding."
+    }
 ]
